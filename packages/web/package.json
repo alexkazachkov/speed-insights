@@ -19,6 +19,7 @@
       "require": "./dist/index.js"
     },
     "./astro": {
+      "types": "./dist/astro/index.d.ts",
       "import": "./dist/astro/component.ts"
     },
     "./next": {
